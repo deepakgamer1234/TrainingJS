@@ -1,5 +1,5 @@
 import React from 'react'
-import HomePage from './page/HomePage.component'
+import HomePage from './page/home-page/HomePage.component'
 import productCategories from './page/Product.categories'
 
 const App = () => {

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home-page.style.css";
-import MenuItem from "../components/MenuItem";
-import productCategories from "./Product.categories";
+import MenuItem from "../../components/MenuItem";
+import productCategories from "../Product.categories";
 import { useNavigate } from "react-router-dom";
 
 const HomePage = () => {
